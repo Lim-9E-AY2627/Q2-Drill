@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+    background-image: url(https://as1.ftcdn.net/jpg/05/44/72/86/1000_F_544728669_8PmGPaIIfQ79iugFfd4P8HtyWEXzNARi.webp);
+}
+
+h1 {
+   font-family: "Edu QLD Hand", cursive;
+}
+
+.Pickleball {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+    footer {
+      background: #0c76e0;
+      color: white;
+      padding: 15px;
+      font-size: 0.85rem;
+      margin-top: 40px;
+    }
